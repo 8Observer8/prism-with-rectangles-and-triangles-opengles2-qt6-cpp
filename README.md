@@ -1,0 +1,1 @@
+![image](https://github.com/8Observer8/prism-with-rectangles-and-triangles-opengles2-qt6-cpp/assets/3908473/1612f73e-8949-4723-a77c-a75b90d6898b)
